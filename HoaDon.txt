@@ -1,0 +1,19 @@
+                 TRUONG DAI HOC BACH KHOA DA NANG
+                 D/C    :54 Nguyen Luong Bang - Lien Chieu - Da Nang
+                 DT     :02363842308
+
+                                HOA DON BAN LE
+                                                            Ma Don Hang: DH7310
+     Ten Khach Hang: hanh                                 Ngay mua hang: 26/12/2022
+     So Dien Thoai: 123
+     Nhan Vien Phu Trach: trung
+              ----------------------------------------------------------------------
+             |      STT    |    Ten SP   |   So Luong  |   Don Gia   |  Thanh Tien |
+             |      1           but       1              4000              4000
+             ------------------------------------------------------------------------
+       Tong Cong : 4000
+       Discount  : 0 %
+       Thanh Tien: 4000
+
+
+          Khach Hang                                          Nguoi tao HD
